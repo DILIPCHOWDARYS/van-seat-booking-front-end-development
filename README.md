@@ -29,7 +29,7 @@ Van Seat Booking is a web application designed to allow users to select and book
 Clone the repository to your local machine:
 
 ```bash
-  git clone https://github.com/DILIPNANI/van-seat-booking-Front-End-Development.git
+  git clone https://github.com/DILIPNANI/van-seat-booking-front-end-development.git
 ```
 Navigate to the project directory:
 ```bash
