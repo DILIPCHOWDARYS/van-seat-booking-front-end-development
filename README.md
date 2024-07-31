@@ -33,7 +33,7 @@ Clone the repository to your local machine:
 ```
 Navigate to the project directory:
 ```bash
-cd van-seat-booking-Front-End-Development
+cd van-seat-booking-front-end-development
 ```
 * Open index.html in your browser to view the application.
     
